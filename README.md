@@ -7,6 +7,7 @@
 
 ![권영언's github stats](https://github-readme-stats.vercel.app/api?username=kyu9341&show_icons=true&theme=gruvbox)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kyu9341)](https://solved.ac/kyu9341)
 
 
 
